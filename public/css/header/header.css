@@ -1,0 +1,198 @@
+/*  DEBUT PREMIERE PARTIE  */
+.head1
+{
+    text-align: right;
+    background-color: #ff6633;
+    margin-top: .5rem!important;
+    
+}
+.head1 a
+{
+    text-decoration: none;
+    color: #fff;
+    padding-right: 50px;
+}
+.head1:hover
+{
+    color: #fff;
+}
+/*  FIN PREMIERE PARTIE  */
+
+/*  DEBUT DEUXIEME PARTIE  */
+.head2
+{
+    margin-top: .5rem!important;
+    height: 55px;
+    width: 100%;
+}
+/*  FIN DEUXIEME PARTIE */
+
+/*  DEBUT TROISIEME PARTIE  */
+.head3
+{
+    margin-top: .5rem!important;
+}
+/*  FIN TROISIEME PARTIE  */
+
+/*  DEBUT QUATRIEME PARTIE  */
+.head4
+{
+    box-shadow: 0 2px 15px #0000001a;
+}
+.val
+{
+    color: #ff5733;
+}
+.head5:hover .head7
+{
+    display: block;
+}
+.head6
+{
+    color: black;
+}
+.head6:hover
+{
+    color: #ff6633;
+    border-bottom: 2px solid #ff5733;
+}
+.head7
+{
+  display: none;
+  position: absolute;
+  background-color: #444;
+}
+.head7 li 
+{
+    padding: 5px;
+}
+.head8:hover
+{
+    color: #ff6633;
+}
+/*   FIN QUATRIEME PARTIE */
+/* ----- DEBUT PREMIERE PARTIE -----*/
+.foot1
+{
+    background-color: #72cf91;
+    text-align: center;
+}
+.foot1 a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    padding-left: 15px;
+}
+.foot1 a:hover
+{
+    color: #fff;
+}
+.tiret
+{
+    padding-left: 15px;
+}
+/* ----- FIN PREMIERE PARTIE -----*/
+
+
+/* ----- DEBUT DEUXIEME PARTIE ----- */
+.foot2
+{
+    padding-top: 20px;
+    background: url(../image/footer.jpg);
+    height: 360px;
+}
+.fifion1
+{
+    color: #fff;
+    line-height: 12px;
+}
+.ib
+{
+    width: 60%;
+    margin-bottom: 20px;
+}
+.koslov1
+{
+    font-size: 14px;
+    font-weight: 700;
+}
+.koslov2
+{
+    font-size: 12px;
+}
+h5
+{
+    color: #f16739;
+}
+
+.momo1
+{
+    list-style-type: none;
+    padding-left: 10px;
+}
+.momo2
+{
+    color: #fff;
+    text-decoration: none;
+}
+.momo2:hover
+{
+    color: #fff;
+}
+.momo3
+{
+    color: black;
+    font-weight: bold;
+}
+/* ----- FIN DEUXIEME PARTIE -----*/
+
+
+/* ------ DEBUT TROISIEME PARTIE ------*/
+.momo4
+{
+    padding-top: 20px;
+}
+.momo5
+{
+    color: #ff6633;
+}
+/* ----- FIN TROISIEME PARTIE -----*/
+
+
+/* ----- DEBUT QUATRIEME PARTIE -----*/
+.momo6
+{
+    background-color: black;
+    width: 100%;
+    color: #fff;
+}
+.momo7
+{
+    background-color:red;
+    padding: 0 10px;
+    height: 30px;
+    color: #fff;
+    font-weight: 700;
+}
+.momo8
+{
+    display: flex;
+}
+
+.momo9
+{
+    background-color:red;
+    padding: 0 3px;
+    height: 30px;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* .sticky-top {
+    position: fixed !important;
+    top: 0;
+    width: 100%;
+} */
+/* ----- FIN QUATRIEME PARTIE -----*/
